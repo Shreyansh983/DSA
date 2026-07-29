@@ -12,7 +12,7 @@ class MyStack {
         q1.offer(x);
     }
 
-    public int pop() {
+    private void removeElementsFromQ1(Queue<Integer> q1){
         if (!q1.isEmpty()) {
             int n = q1.size();
             for (int i = 0; i < n - 1; i++) {
@@ -20,6 +20,10 @@ class MyStack {
                 q2.offer(val);
             }
         }
+    }
+
+    public int pop() {
+        removeElementsFromQ1(q1);
         int ans = q1.poll();
         Queue<Integer> temp = q1; // reference swap
         q1 = q2;
@@ -28,13 +32,7 @@ class MyStack {
     }
 
     public int top() {
-        if (!q1.isEmpty()) {
-            int n = q1.size();
-            for (int i = 0; i < n - 1; i++) {
-                int val = q1.poll();
-                q2.offer(val);
-            }
-        }
+        removeElementsFromQ1(q1);
         int ans = q1.poll();
         q2.offer(ans);
         Queue<Integer> temp = q1; // reference swap
