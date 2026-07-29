@@ -21,7 +21,7 @@ class MyStack {
             }
         }
         int ans = q1.poll();
-        Queue<Integer> temp = q1;
+        Queue<Integer> temp = q1; // reference swap
         q1 = q2;
         q2 = temp;
         return ans;
@@ -37,7 +37,7 @@ class MyStack {
         }
         int ans = q1.poll();
         q2.offer(ans);
-        Queue<Integer> temp = q1;
+        Queue<Integer> temp = q1; // reference swap
         q1 = q2;
         q2 = temp;
         return ans;
