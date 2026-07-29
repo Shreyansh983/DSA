@@ -54,7 +54,7 @@ class MyStack {
         q1.offer(x);
         for(int i =0;i<q1.size()-1;i++){
             int val = q1.poll();
-            q1.add(val);
+            q1.offer(val);
         }
     }
 
