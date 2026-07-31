@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shreyansh983/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Shreyansh983/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shreyansh983/DSA/tree/master/0015-3sum) |
+| [0682-baseball-game](https://github.com/Shreyansh983/DSA/tree/master/0682-baseball-game) |
 ## Stack
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shreyansh983/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shreyansh983/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/Shreyansh983/DSA/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shreyansh983/DSA/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Shreyansh983/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
