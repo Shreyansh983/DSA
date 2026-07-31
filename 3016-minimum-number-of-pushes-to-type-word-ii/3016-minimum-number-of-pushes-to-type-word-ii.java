@@ -10,7 +10,7 @@ class Solution {
             arr.add(value);
         }
         Collections.sort(arr, Collections.reverseOrder());
-        System.out.println(arr);
+
         int count = 0;
         for (int i = 0; i < arr.size(); i++) {
             if (i <= 7)
