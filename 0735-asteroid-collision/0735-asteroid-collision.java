@@ -2,7 +2,6 @@ class Solution {
     public int[] asteroidCollision(int[] asteroids) {
 
         Deque<Integer> stack = new ArrayDeque<>();
-        List<Integer> list = new ArrayList<>();
         for (int ast : asteroids) {
             boolean alive = true;
             while (!stack.isEmpty() && stack.peek() > 0 && ast < 0) {
@@ -10,22 +9,25 @@ class Solution {
                 int b = Math.abs(ast);
                 if (b > a) {
                     stack.pop();
-                }else if(b==a){
+                } else if (b == a) {
                     alive = false;
                     stack.pop();
                     break;
-                }else{
+                } else {
                     alive = false;
                     break;
                 }
             }
-            if(alive) stack.push(ast);
+            if (alive)
+                stack.push(ast);
         }
 
-        while (!stack.isEmpty()) {
-            list.add(stack.pop());
+        int[] ans = new int[stack.size()];
+
+        for (int i = ans.length - 1; i >= 0; i--) {
+            ans[i] = stack.pop();
         }
-        Collections.reverse(list);
-        return list.stream().mapToInt(Integer::intValue).toArray();
+
+        return ans;
     }
 }
