@@ -13,15 +13,17 @@ class Solution {
 
         int count = 0;
         for (int i = 0; i < arr.size(); i++) {
-            if (i <= 7)
-                count += arr.get(i);
-            else if (i <= 15 && i > 7) {
-                count += arr.get(i)*2;
-            }else if(i <= 23 && i > 15){
-                count += arr.get(i)*3;
-            }else{
-                count += arr.get(i)*4;
-            }
+            // if (i <= 7)
+            //     count += arr.get(i);
+            // else if (i <= 15 && i > 7) {
+            //     count += arr.get(i)*2;
+            // }else if(i <= 23 && i > 15){
+            //     count += arr.get(i)*3;
+            // }else{
+            //     count += arr.get(i)*4;
+            // }
+
+            count += arr.get(i) * (i / 8 + 1);
         }
 
         return count;
