@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyansh983/DSA/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/Shreyansh983/DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh983/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Shreyansh983/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shreyansh983/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shreyansh983/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shreyansh983/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Shreyansh983/DSA/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/Shreyansh983/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyansh983/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
@@ -97,8 +99,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shreyansh983/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Shreyansh983/DSA/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shreyansh983/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Shreyansh983/DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
