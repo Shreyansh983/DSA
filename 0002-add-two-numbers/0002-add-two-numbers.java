@@ -13,15 +13,15 @@ class Solution {
         ListNode dummy = new ListNode(0);
         ListNode temp = dummy;
 
-        ListNode prev1 = l2;
-        ListNode prev = l1;
+        ListNode curr2 = l2;
+        ListNode curr1 = l1;
         boolean carry = false;
         int a = 0;
-        while(prev!=null || prev1 != null || carry==true){
+        while(curr1!=null || curr2 != null || carry==true){
             if(carry) a = 1;
             else a = 0;
-            int x = (prev == null) ? 0 : prev.val;
-            int y = (prev1 == null) ? 0 : prev1.val;
+            int x = (curr1 == null) ? 0 : curr1.val;
+            int y = (curr2 == null) ? 0 : curr2.val;
             int sum =  x + y + a;
             if(sum>9){
                 carry = true;
@@ -30,8 +30,8 @@ class Solution {
                 carry = false;
             }
             temp.next = new ListNode(sum);
-            if(prev != null)   prev = prev.next;
-            if(prev1 != null)    prev1 = prev1.next;
+            if(curr1 != null)   curr1 = curr1.next;
+            if(curr2 != null)    curr2 = curr2.next;
             temp = temp.next;
         }
         return dummy.next;
