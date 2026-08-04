@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh983/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyansh983/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shreyansh983/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Shreyansh983/DSA/tree/master/0189-rotate-array) |
 | [0682-baseball-game](https://github.com/Shreyansh983/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shreyansh983/DSA/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/Shreyansh983/DSA/tree/master/0853-car-fleet) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shreyansh983/DSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Shreyansh983/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyansh983/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Shreyansh983/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Shreyansh983/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shreyansh983/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Shreyansh983/DSA/tree/master/1768-merge-strings-alternately) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shreyansh983/DSA/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh983/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Shreyansh983/DSA/tree/master/0189-rotate-array) |
 | [0445-add-two-numbers-ii](https://github.com/Shreyansh983/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shreyansh983/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Counting
