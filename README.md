@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shreyansh983/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Shreyansh983/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyansh983/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Shreyansh983/DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Shreyansh983/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Shreyansh983/DSA/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh983/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shreyansh983/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyansh983/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Linked List
 |  |
