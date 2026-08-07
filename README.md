@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shreyansh983/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Shreyansh983/DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Shreyansh983/DSA/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Shreyansh983/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh983/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shreyansh983/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shreyansh983/DSA/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/Shreyansh983/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Shreyansh983/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Shreyansh983/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shreyansh983/DSA/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/Shreyansh983/DSA/tree/master/0853-car-fleet) |
@@ -179,4 +181,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shreyansh983/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Shreyansh983/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
