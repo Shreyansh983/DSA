@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shreyansh983/DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Shreyansh983/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Shreyansh983/DSA/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyansh983/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh983/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyansh983/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shreyansh983/DSA/tree/master/0169-majority-element) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shreyansh983/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyansh983/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
 | ------- |
