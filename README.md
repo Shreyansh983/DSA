@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shreyansh983/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyansh983/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shreyansh983/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyansh983/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh983/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3945-digit-frequency-score](https://github.com/Shreyansh983/DSA/tree/master/3945-digit-frequency-score) |
 ## String
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyansh983/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shreyansh983/DSA/tree/master/0076-minimum-window-substring) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyansh983/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shreyansh983/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shreyansh983/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/Shreyansh983/DSA/tree/master/1672-richest-customer-wealth) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyansh983/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
 | ------- |
