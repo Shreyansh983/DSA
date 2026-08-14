@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shreyansh983/DSA/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh983/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shreyansh983/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Shreyansh983/DSA/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Shreyansh983/DSA/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Shreyansh983/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Shreyansh983/DSA/tree/master/0509-fibonacci-number) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shreyansh983/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shreyansh983/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Shreyansh983/DSA/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/Shreyansh983/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Shreyansh983/DSA/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
@@ -217,5 +219,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Shreyansh983/DSA/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shreyansh983/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
