@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shreyansh983/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Shreyansh983/DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Shreyansh983/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Shreyansh983/DSA/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyansh983/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shreyansh983/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyansh983/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Shreyansh983/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyansh983/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shreyansh983/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Shreyansh983/DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Shreyansh983/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shreyansh983/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Shreyansh983/DSA/tree/master/1768-merge-strings-alternately) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shreyansh983/DSA/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shreyansh983/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shreyansh983/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Shreyansh983/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shreyansh983/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Shreyansh983/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shreyansh983/DSA/tree/master/0412-fizz-buzz) |
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shreyansh983/DSA/tree/master/0258-add-digits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Shreyansh983/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
