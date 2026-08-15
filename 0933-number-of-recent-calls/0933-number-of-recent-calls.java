@@ -9,7 +9,7 @@ class RecentCounter {
         queue.offer(t);
         int minRange = t-3000;
         int maxRange = t;
-        while(queue.peek() < minRange || queue.peek() > maxRange ){
+        while(queue.peek() < minRange){
             queue.poll();
         }
         return queue.size();
