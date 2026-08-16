@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shreyansh983/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyansh983/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shreyansh983/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shreyansh983/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyansh983/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyansh983/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh983/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Shreyansh983/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Shreyansh983/DSA/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Shreyansh983/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shreyansh983/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh983/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyansh983/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Shreyansh983/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreyansh983/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1652-defuse-the-bomb](https://github.com/Shreyansh983/DSA/tree/master/1652-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shreyansh983/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyansh983/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyansh983/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyansh983/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreyansh983/DSA/tree/master/0169-majority-element) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shreyansh983/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/Shreyansh983/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh983/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
