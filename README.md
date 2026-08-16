@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreyansh983/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shreyansh983/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreyansh983/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shreyansh983/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/Shreyansh983/DSA/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shreyansh983/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyansh983/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Shreyansh983/DSA/tree/master/0853-car-fleet) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shreyansh983/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shreyansh983/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shreyansh983/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/Shreyansh983/DSA/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/Shreyansh983/DSA/tree/master/1672-richest-customer-wealth) |
 | [2029-stone-game-ix](https://github.com/Shreyansh983/DSA/tree/master/2029-stone-game-ix) |
