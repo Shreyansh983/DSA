@@ -17,9 +17,9 @@ class Solution {
     public TreeNode invertTree(TreeNode root) {
         if(root==null) return null;
 
-        swap(root);
-        invertTree(root.left);
-        invertTree(root.right);
+        swap(root); //  Current node ke left/right swap
+        invertTree(root.left); // left subtree ko invert
+        invertTree(root.right); // right subtree ko invert
         return root;
     }
 
