@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shreyansh983/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Shreyansh983/DSA/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Shreyansh983/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Shreyansh983/DSA/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/Shreyansh983/DSA/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Shreyansh983/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shreyansh983/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Shreyansh983/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/Shreyansh983/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shreyansh983/DSA/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Shreyansh983/DSA/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/Shreyansh983/DSA/tree/master/0853-car-fleet) |
 ## Design
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shreyansh983/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shreyansh983/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shreyansh983/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Shreyansh983/DSA/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/Shreyansh983/DSA/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shreyansh983/DSA/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Shreyansh983/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shreyansh983/DSA/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Shreyansh983/DSA/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shreyansh983/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
 |  |
