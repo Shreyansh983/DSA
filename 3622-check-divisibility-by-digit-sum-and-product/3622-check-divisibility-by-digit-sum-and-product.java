@@ -1,7 +1,7 @@
 class Solution {
     public boolean checkDivisibility(int n) {
         int temp = n;
-        int total = digitTotal(temp);;
+        int total = digitTotal(temp);
         if(n%total==0) return true;
         return false;
     }
