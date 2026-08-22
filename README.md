@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Shreyansh983/DSA/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/Shreyansh983/DSA/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyansh983/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shreyansh983/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3945-digit-frequency-score](https://github.com/Shreyansh983/DSA/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
