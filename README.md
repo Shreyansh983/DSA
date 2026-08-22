@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyansh983/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shreyansh983/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shreyansh983/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4024-nearest-available-drone](https://github.com/Shreyansh983/DSA/tree/master/4024-nearest-available-drone) |
 ## Stack
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shreyansh983/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4024-nearest-available-drone](https://github.com/Shreyansh983/DSA/tree/master/4024-nearest-available-drone) |
 ## Tree
 |  |
 | ------- |
