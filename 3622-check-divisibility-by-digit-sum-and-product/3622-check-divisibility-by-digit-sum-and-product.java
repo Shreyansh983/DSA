@@ -5,7 +5,6 @@ class Solution {
         int product = digitProduct(temp);
         int sum = digitSum(tmp);
         int total = sum + product;
-        System.out.println(sum + " " + product + " " + total);
         if(n%total==0) return true;
         return false;
     }
