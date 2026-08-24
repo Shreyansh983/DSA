@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Shreyansh983/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Shreyansh983/DSA/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/Shreyansh983/DSA/tree/master/0853-car-fleet) |
+| [0897-increasing-order-search-tree](https://github.com/Shreyansh983/DSA/tree/master/0897-increasing-order-search-tree) |
 ## Design
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Shreyansh983/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shreyansh983/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyansh983/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Shreyansh983/DSA/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shreyansh983/DSA/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shreyansh983/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shreyansh983/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Shreyansh983/DSA/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Shreyansh983/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shreyansh983/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyansh983/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Shreyansh983/DSA/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyansh983/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Shreyansh983/DSA/tree/master/0897-increasing-order-search-tree) |
 ## String Matching
 |  |
 | ------- |
