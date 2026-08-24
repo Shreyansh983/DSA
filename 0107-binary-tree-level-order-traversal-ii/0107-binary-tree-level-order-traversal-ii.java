@@ -16,7 +16,7 @@
 class Solution {
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
         List<List<Integer>> list = new ArrayList<>();
-        Deque<List<Integer>> stack = new ArrayDeque<>();
+        Deque<List<Integer>> stack = new ArrayDeque<>(); // instead of using stack we can use collection.reverse() function on list;
         if(root==null) return list;
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
