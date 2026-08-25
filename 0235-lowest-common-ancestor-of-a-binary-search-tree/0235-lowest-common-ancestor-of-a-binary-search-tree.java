@@ -18,11 +18,9 @@ class Solution {
     private void lowest(TreeNode root, TreeNode p, TreeNode q) {
         if(root==null) return;
 
-        if(root.val>=p.val && root.val<=q.val) {
-            ans = root;
-            return;
-        }
-        if(root.val<=p.val && root.val>=q.val) {
+        int low = Math.min(p.val, q.val);
+        int hi = Math.max(p.val, q.val);
+        if(root.val>=low && root.val<=hi) {
             ans = root;
             return;
         }
