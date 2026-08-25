@@ -24,7 +24,7 @@ class Solution {
             ans = root;
             return;
         }
-        if(root.val>p.val && root.val>q.val) lowest(root.left,p,q);
-        if(root.val<p.val && root.val<q.val) lowest(root.right,p,q);
+        if(root.val>hi) lowest(root.left,p,q);
+        if(root.val<low) lowest(root.right,p,q);
     }
 }
