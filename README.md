@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shreyansh983/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shreyansh983/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shreyansh983/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3912-valid-elements-in-an-array](https://github.com/Shreyansh983/DSA/tree/master/3912-valid-elements-in-an-array) |
 | [4024-nearest-available-drone](https://github.com/Shreyansh983/DSA/tree/master/4024-nearest-available-drone) |
 ## Stack
 |  |
