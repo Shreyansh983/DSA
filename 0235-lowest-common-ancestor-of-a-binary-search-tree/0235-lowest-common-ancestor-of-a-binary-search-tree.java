@@ -15,17 +15,18 @@ class Solution {
         return ans;
     }
 
-    private int lowest(TreeNode root, TreeNode p, TreeNode q) {
-        if(root==null) return 0;
+    private void lowest(TreeNode root, TreeNode p, TreeNode q) {
+        if(root==null) return;
 
-        int left = lowest(root.left,p,q);
-        int right = lowest(root.right,p,q);
-        int self = 0;
-        if(root==p || root==q) self = 1;
-        int total = left + right + self;
-
-        if(total>=2 && ans == null) ans = root;
-
-        return total;
+        if(root.val>=p.val && root.val<=q.val) {
+            ans = root;
+            return;
+        }
+        if(root.val<=p.val && root.val>=q.val) {
+            ans = root;
+            return;
+        }
+        if(root.val>p.val && root.val>q.val) lowest(root.left,p,q);
+        if(root.val<p.val && root.val<q.val) lowest(root.right,p,q);
     }
 }
