@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shreyansh983/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh983/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyansh983/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3813-vowel-consonant-score](https://github.com/Shreyansh983/DSA/tree/master/3813-vowel-consonant-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Shreyansh983/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Shreyansh983/DSA/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shreyansh983/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3813-vowel-consonant-score](https://github.com/Shreyansh983/DSA/tree/master/3813-vowel-consonant-score) |
 ## Math
 |  |
 | ------- |
