@@ -5,11 +5,11 @@ class Solution {
             if(!stack.isEmpty() && stack.peek()==ch) stack.pop();
             else stack.push(ch);
         }
-        String ans = "";
+        StringBuilder sb = new StringBuilder();
         while(!stack.isEmpty()){
             char c = stack.removeLast();
-            ans += c;
+            sb.append(c);
         }
-        return ans;
+        return sb.toString();
     }
 }
