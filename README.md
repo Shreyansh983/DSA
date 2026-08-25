@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shreyansh983/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Shreyansh983/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shreyansh983/DSA/tree/master/0735-asteroid-collision) |
+| [0825-friends-of-appropriate-ages](https://github.com/Shreyansh983/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0853-car-fleet](https://github.com/Shreyansh983/DSA/tree/master/0853-car-fleet) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shreyansh983/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shreyansh983/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shreyansh983/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shreyansh983/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shreyansh983/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0825-friends-of-appropriate-ages](https://github.com/Shreyansh983/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0844-backspace-string-compare](https://github.com/Shreyansh983/DSA/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/Shreyansh983/DSA/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shreyansh983/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreyansh983/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shreyansh983/DSA/tree/master/0268-missing-number) |
+| [0825-friends-of-appropriate-ages](https://github.com/Shreyansh983/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0853-car-fleet](https://github.com/Shreyansh983/DSA/tree/master/0853-car-fleet) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh983/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyansh983/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreyansh983/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Shreyansh983/DSA/tree/master/0268-missing-number) |
+| [0825-friends-of-appropriate-ages](https://github.com/Shreyansh983/DSA/tree/master/0825-friends-of-appropriate-ages) |
 ## Linked List
 |  |
 | ------- |
