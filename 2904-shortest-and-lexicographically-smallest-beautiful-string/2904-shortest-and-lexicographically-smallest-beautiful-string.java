@@ -15,7 +15,6 @@ class Solution {
                     sb.deleteCharAt(0);
                 i++;
             }
-            // System.out.println(sb);
             if (count == k) {
                 if (sb.length() < min) {
                     min = sb.length();
