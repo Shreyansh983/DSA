@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shreyansh983/DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Shreyansh983/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Shreyansh983/DSA/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/Shreyansh983/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Shreyansh983/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Shreyansh983/DSA/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Shreyansh983/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shreyansh983/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shreyansh983/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shreyansh983/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Shreyansh983/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Shreyansh983/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shreyansh983/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyansh983/DSA/tree/master/0700-search-in-a-binary-search-tree) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shreyansh983/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shreyansh983/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shreyansh983/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Shreyansh983/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Shreyansh983/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shreyansh983/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Shreyansh983/DSA/tree/master/0897-increasing-order-search-tree) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shreyansh983/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shreyansh983/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shreyansh983/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Shreyansh983/DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/Shreyansh983/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shreyansh983/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shreyansh983/DSA/tree/master/0700-search-in-a-binary-search-tree) |
@@ -411,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shreyansh983/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shreyansh983/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Shreyansh983/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
