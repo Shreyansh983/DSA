@@ -20,7 +20,7 @@ class Solution {
                     min = sb.length();
                     ans = new StringBuilder(sb);
                 } else if (sb.length() == min) {
-                    if (sb.toString().compareTo(ans.toString()) < 0) {
+                    if (sb.toString().compareTo(ans.toString()) < 0) { //lexographically smallest
                         ans = new StringBuilder(sb);
                     }
                 }
