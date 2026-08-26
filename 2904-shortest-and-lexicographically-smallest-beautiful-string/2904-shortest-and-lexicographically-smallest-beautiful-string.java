@@ -13,13 +13,13 @@ class Solution {
                 i++;
             }
             if (count == k) {
-                String sb = s.substring(i,j+1);
-                if (sb.length() < min) {
-                    min = sb.length();
-                    ans = sb;
-                } else if (sb.length() == min) {
-                    if (sb.compareTo(ans) < 0) { //lexographically smallest
-                        ans = sb;
+                String window = s.substring(i,j+1);
+                if (window.length() < min) {
+                    min = window.length();
+                    ans = window;
+                } else if (window.length() == min) {
+                    if (window.compareTo(ans) < 0) { //lexographically smallest
+                        ans = window;
                     }
                 }
             }
