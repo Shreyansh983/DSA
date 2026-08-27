@@ -17,7 +17,6 @@ class Solution {
     public boolean findTarget(TreeNode root, int k) {
         List<Integer> list = new ArrayList<>();
         dfs(root,list);
-        System.out.println(list);
         int i =0,j = list.size()-1;
         while(i<j){
             int sum = list.get(i)+list.get(j);
