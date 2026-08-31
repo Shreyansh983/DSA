@@ -25,7 +25,6 @@ class Solution {
             curr = curr.next;
             next = curr.next;
         }
-        System.out.println(list);
         if (list.size() < 2)
             return new int[] { -1, -1 };
         int min = Integer.MAX_VALUE;
