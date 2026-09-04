@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Shreyansh983/DSA/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shreyansh983/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shreyansh983/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Shreyansh983/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3912-valid-elements-in-an-array](https://github.com/Shreyansh983/DSA/tree/master/3912-valid-elements-in-an-array) |
 | [4024-nearest-available-drone](https://github.com/Shreyansh983/DSA/tree/master/4024-nearest-available-drone) |
 ## Stack
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shreyansh983/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shreyansh983/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shreyansh983/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3903-smallest-stable-index-i](https://github.com/Shreyansh983/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Memoization
 |  |
 | ------- |
