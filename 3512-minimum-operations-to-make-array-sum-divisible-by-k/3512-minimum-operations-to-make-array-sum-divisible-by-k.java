@@ -5,7 +5,6 @@ class Solution {
             sum += num;
         }
         int rem = sum%k;
-        if(rem==0) return 0;
         return rem;
     }
 }
