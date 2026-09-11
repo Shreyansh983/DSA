@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shreyansh983/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shreyansh983/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shreyansh983/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyansh983/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Shreyansh983/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyansh983/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shreyansh983/DSA/tree/master/0485-max-consecutive-ones) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shreyansh983/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shreyansh983/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shreyansh983/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyansh983/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shreyansh983/DSA/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shreyansh983/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Shreyansh983/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyansh983/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreyansh983/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Shreyansh983/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyansh983/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0825-friends-of-appropriate-ages](https://github.com/Shreyansh983/DSA/tree/master/0825-friends-of-appropriate-ages) |
 ## Linked List
 |  |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shreyansh983/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Shreyansh983/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shreyansh983/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyansh983/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shreyansh983/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/Shreyansh983/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shreyansh983/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shreyansh983/DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyansh983/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Data Stream
 |  |
 | ------- |
@@ -499,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Shreyansh983/DSA/tree/master/1267-count-servers-that-communicate) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shreyansh983/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
