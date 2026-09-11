@@ -1,5 +1,6 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
+        //Cycle sort
         int i = 0;
         while(i<nums.length){
             int current = nums[i]-1;
