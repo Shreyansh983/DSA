@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shreyansh983/DSA/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Shreyansh983/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Shreyansh983/DSA/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Shreyansh983/DSA/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shreyansh983/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shreyansh983/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Shreyansh983/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -517,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shreyansh983/DSA/tree/master/0287-find-the-duplicate-number) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Shreyansh983/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
