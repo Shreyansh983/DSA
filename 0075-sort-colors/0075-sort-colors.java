@@ -2,7 +2,7 @@ class Solution {
     public void sortColors(int[] nums) {
         //naive method
         //Arrays.sort(nums);
-        // Optimal solution
+        // Optimal solution Dutch National Flag algorithm
         int low = 0, mid = 0, high = nums.length - 1;
         while (mid <= high) {
             if (nums[mid] == 0) {
