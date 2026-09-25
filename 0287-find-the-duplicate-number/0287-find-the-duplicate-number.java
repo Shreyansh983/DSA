@@ -20,7 +20,6 @@ class Solution {
             }
             nums[a] = -nums[a];
         }
-        // System.out.println(Arrays.toString(nums));
         return nums.length;
     }
 }
