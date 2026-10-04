@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Shreyansh983/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Shreyansh983/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Shreyansh983/DSA/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/Shreyansh983/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shreyansh983/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Shreyansh983/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shreyansh983/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Shreyansh983/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shreyansh983/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/Shreyansh983/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Shreyansh983/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Shreyansh983/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shreyansh983/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Shreyansh983/DSA/tree/master/0844-backspace-string-compare) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shreyansh983/DSA/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/Shreyansh983/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shreyansh983/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Shreyansh983/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Shreyansh983/DSA/tree/master/2029-stone-game-ix) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyansh983/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shreyansh983/DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Shreyansh983/DSA/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Shreyansh983/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Manacher
 |  |
 | ------- |
@@ -565,5 +569,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shreyansh983/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shreyansh983/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreyansh983/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
