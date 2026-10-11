@@ -6,7 +6,6 @@ class Solution {
             int k = i + 1;
             if(n%k==0) {
                 int mul = nums[i]*nums[i];
-                System.out.println(mul);
                 sum += mul;
             }
         }
