@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Shreyansh983/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shreyansh983/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyansh983/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shreyansh983/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyansh983/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh983/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shreyansh983/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shreyansh983/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyansh983/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shreyansh983/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shreyansh983/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreyansh983/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shreyansh983/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shreyansh983/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Shreyansh983/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Shreyansh983/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shreyansh983/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shreyansh983/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shreyansh983/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Shreyansh983/DSA/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shreyansh983/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/Shreyansh983/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shreyansh983/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shreyansh983/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
 |  |
